@@ -40,6 +40,7 @@
 10. Hai finito l'Installazione e la Configurazione di ngrok! :D
 
 **COME USARE NGROK PER HOSTARE I PROPRI MONDI PER I PROPRI AMICI:**
+
 ***DISCLAIMER: Usate ngrok UNICAMENTE con le persone di cui vi fidate siccome una persona competente potrebbe utilizzarlo per risalire al vostro IP!***
 1. Aprite `ngrok` come mostrato nel passaggio *6* dell'Installazione & Configurazione.
 2. Entrate nel mondo di Minecraft che volete aprire ai vostri amici.
