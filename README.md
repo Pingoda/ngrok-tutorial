@@ -14,6 +14,7 @@
 10. You've finished the Installation & Setup of `ngrok`! :D
 
 **HOW TO USE NGROK TO HOST A MINECRAFT WORLD FOR YOUR FRIENDS:**
+
 ***DISCLAIMER: Use ngrok ONLY with people you trust because if someone knows how they can get your IP!***
 
 1. Open `ngrok` as shown in the *6th* point of Installation & Setup.
