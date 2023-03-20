@@ -26,7 +26,7 @@
 *(Note that to copy the IP you'll need to click `RIGHT-CLICK` and not `CTRL + C` because this will close the Terminal)*
 7. Now you only need to send the IP to your friends and have fun!
 
-## **ITALIAN TUTORIAL**
+## **TUTORIAL ITALIANO**
 **COME SCARICARE E CONFIGURARE NGROK:**
 1. Andare sul sito di ngrok. *(https://ngrok.com/)*
 2. Creare un Account di ngrok. *(senza di esso non potrete usare ngrok)*
